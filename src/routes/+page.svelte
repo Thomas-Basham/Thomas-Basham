@@ -22,8 +22,15 @@
   }
   onMount(() => {
     // CHECKS THE DARK MODE SWITCH IF LOCAL STORAGE 'theme' OR SYSTEM THEME IS SET TO DARK.
-    if ($ThemeStore.theme == "dark") {
-      window.$("#darkSwitch").prop("checked", true);
+    const darkThemeMq = window.matchMedia("(prefers-color-scheme: dark)");
+    const checkbox = window.$("#darkSwitch");
+    if (darkThemeMq) {
+      setTheme("dark");
+    }
+    if ($ThemeStore.theme == "dark" || darkThemeMq) {
+      checkbox.prop("checked", true);
+    } else {
+      checkbox.prop("checked", false);
     }
 
     //Enable tooltips everywhere
