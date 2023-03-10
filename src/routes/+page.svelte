@@ -106,7 +106,7 @@
             <!-- <li class="list-inline-item"><a href="#"><i class="fab fa-stack-overflow"></i></a></li>    -->
             <li class="list-inline-item last-item">
               <a href="https://leetcode.com/Thomas-Basham"
-                ><i class="fab fa-solid fa-code" /></a
+                ><i class="fa-solid fa-code" /></a
               >
             </li>
           </ul>
