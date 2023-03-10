@@ -24,10 +24,13 @@
     // CHECKS THE DARK MODE SWITCH IF LOCAL STORAGE 'theme' OR SYSTEM THEME IS SET TO DARK.
     const darkThemeMq = window.matchMedia("(prefers-color-scheme: dark)");
     const checkbox = window.$("#darkSwitch");
-    if (darkThemeMq) {
+    if ($ThemeStore.theme == "system" && darkThemeMq) {
       setTheme("dark");
     }
-    if ($ThemeStore.theme == "dark" || darkThemeMq) {
+    if (
+      $ThemeStore.theme == "dark" ||
+      ($ThemeStore.theme == "system" && darkThemeMq)
+    ) {
       checkbox.prop("checked", true);
     } else {
       checkbox.prop("checked", false);
@@ -43,33 +46,28 @@
 
     /* Vanilla RSS - https://github.com/sdepold/vanilla-rss */
 
-    window.$("#rss-feeds").rss(
-      //Change this to your own rss feeds
-      //   "http://feeds.feedburner.com/premiumpixels",
-      "http://medium.com/feed/@bashamtg",
-      {
-        // how many entries do you want?
-        // default: 4
-        // valid values: any integer
-        limit: 3,
+    window.$("#rss-feeds").rss("http://medium.com/feed/@bashamtg", {
+      // how many entries do you want?
+      // default: 4
+      // valid values: any integer
+      limit: 3,
 
-        // will request the API via https
-        // default: false
-        // valid values: false, true
-        ssl: true,
+      // will request the API via https
+      // default: false
+      // valid values: false, true
+      ssl: true,
 
-        // outer template for the html transformation
-        // default: "<ul>{entries}</ul>"
-        // valid values: any string
-        layoutTemplate: "<div class='items'>{entries}</div>",
+      // outer template for the html transformation
+      // default: "<ul>{entries}</ul>"
+      // valid values: any string
+      layoutTemplate: "<div class='items'>{entries}</div>",
 
-        // inner template for each entry
-        // default: '<li><a href="{url}">[{author}@{date}] {title}</a><br/>{shortBodyPlain}</li>'
-        // valid values: any string
-        entryTemplate:
-          '<div class="item"><h3 class="title"><a href="{url}" target="_blank">{title}</a></h3><div><p>{shortBodyPlain}</p><a class="more-link" href="{url}" target="_blank"><i class="fas fa-external-link-alt"></i>Read more</a></div></div>',
-      }
-    );
+      // inner template for each entry
+      // default: '<li><a href="{url}">[{author}@{date}] {title}</a><br/>{shortBodyPlain}</li>'
+      // valid values: any string
+      entryTemplate:
+        '<div class="item"><h3 class="title"><a href="{url}" target="_blank">{title}</a></h3><div><p>{shortBodyPlain}</p><a class="more-link" href="{url}" target="_blank"><i class="fas fa-external-link-alt"></i>Read more</a></div></div>',
+    });
     // rss.render();
 
     /* Github Calendar - https://github.com/IonicaBizau/github-calendar */
@@ -600,8 +598,8 @@
                   <div
                     class="progress-bar level-bar-inner"
                     role="progressbar"
-                    style="width: 96%"
-                    aria-valuenow="96"
+                    style="width: 86%"
+                    aria-valuenow="86"
                     aria-valuemin="0"
                     aria-valuemax="96"
                   />
@@ -622,8 +620,8 @@
                   <div
                     class="progress-bar level-bar-inner"
                     role="progressbar"
-                    style="width: 90%"
-                    aria-valuenow="90"
+                    style="width: 77%"
+                    aria-valuenow="77"
                     aria-valuemin="0"
                     aria-valuemax="96"
                   />
@@ -644,8 +642,8 @@
                   <div
                     class="progress-bar level-bar-inner"
                     role="progressbar"
-                    style="width: 88%"
-                    aria-valuenow="88"
+                    style="width: 68%"
+                    aria-valuenow="68"
                     aria-valuemin="0"
                     aria-valuemax="96"
                   />
@@ -666,8 +664,8 @@
                   <div
                     class="progress-bar level-bar-inner"
                     role="progressbar"
-                    style="width: 83%"
-                    aria-valuenow="83"
+                    style="width: 63%"
+                    aria-valuenow="63"
                     aria-valuemin="0"
                     aria-valuemax="96"
                   />
@@ -688,8 +686,8 @@
                   <div
                     class="progress-bar level-bar-inner"
                     role="progressbar"
-                    style="width: 68%"
-                    aria-valuenow="68"
+                    style="width: 48%"
+                    aria-valuenow="48"
                     aria-valuemin="0"
                     aria-valuemax="96"
                   />
@@ -915,6 +913,14 @@
             <ul class="list-unstyled pb-2">
               <li>
                 <a
+                  href="https://svelte.dev/"
+                  target="_blank"
+                  rel="noreferrer nofollow"
+                  ><i class="fas fa-external-link-alt" />Svelte</a
+                >
+              </li>
+              <li>
+                <a
                   href="https://getbootstrap.com/"
                   target="_blank"
                   rel="noreferrer nofollow"
@@ -957,9 +963,9 @@
               </li>
               <li>
                 <a
-                  href="https://github.com/coliff/dark-mode-switch"
+                  href="https://github.com/beynar/svelte-themes"
                   rel="noreferrer nofollow"
-                  ><i class="fas fa-external-link-alt" />Dark Mode Switch</a
+                  ><i class="fas fa-external-link-alt" />Svelte Themes</a
                 >
               </li>
             </ul>
