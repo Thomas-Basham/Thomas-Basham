@@ -94,7 +94,7 @@
           <ul class="social list-inline">
             <!-- <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li> -->
             <li class="list-inline-item">
-              <a href="/https://www.linkedin.com/in/thomas-basham"
+              <a href="https://www.linkedin.com/in/thomas-basham"
                 ><i class="fab fa-linkedin-in" /></a
               >
             </li>
@@ -916,7 +916,7 @@
               </li>
               <li>
                 <a
-                  href="https://fortawesome.github.io/Font-Awesome/"
+                  href="https://fontawesome.com"
                   target="_blank"
                   rel="noreferrer nofollow"
                   ><i class="fas fa-external-link-alt" />FontAwesome</a
