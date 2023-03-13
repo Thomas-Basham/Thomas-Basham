@@ -12,7 +12,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<meta
 			name="description"
-			content="Thomas Basham is a Full Stack software developer specializing in Python and Javascript."
+			content="Thomas Basham is a Full Stack software developer specializing in Python and Javascript based out of Renton, Washington."
 		/>
 		<meta name="author" content="Thomas Basham" />
 
@@ -28,7 +28,6 @@
 		/>
 
 		<!-- FontAwesome JS -->
-		<!-- <script defer src="src/fontawesome/js/all.js"></script> -->
 		<script
 			src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/js/all.min.js"
 			integrity="sha512-2bMhOkE/ACz21dJT8zBOMgMecNxx0d37NND803ExktKiKdSzdwn+L7i9fdccw/3V06gM/DBWKbYmQvKMdAA9Nw=="
@@ -36,10 +35,6 @@
 			referrerpolicy="no-referrer"
 		></script>
 		<!-- Global CSS -->
-		<!-- <link
-      rel="stylesheet"
-      href="/src/plugins/bootstrap/css/bootstrap.min.css"
-    /> -->
 		<link
 			href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
 			rel="stylesheet"
@@ -48,10 +43,6 @@
 		/>
 
 		<!-- github calendar css -->
-		<!-- <link
-      rel="stylesheet"
-      href="/src/plugins/github-calendar/dist/github-calendar-responsive.css"
-    /> -->
 		<link
 			rel="stylesheet"
 			href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
@@ -100,8 +91,17 @@
 		src="https://unpkg.com/github-activity-feed@latest/dist/github-activity.min.js"
 	></script>
 
-	<!-- custom js -->
-	<!-- <script type="text/javascript" src="/src/js/main.js"></script> -->
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-TWH58J3YK9"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-TWH58J3YK9');
+	</script>
 
 	<body data-sveltekit-preload-data="hover">
 		<div style="display: contents">%sveltekit.body%</div>
