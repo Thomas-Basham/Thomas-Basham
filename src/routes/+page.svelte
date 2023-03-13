@@ -94,16 +94,20 @@
 					<ul class="social list-inline">
 						<!-- <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li> -->
 						<li class="list-inline-item">
-							<a href="https://www.linkedin.com/in/thomas-basham"
-								><i class="fab fa-linkedin-in" /></a
+							<a href="https://www.linkedin.com/in/thomas-basham" title="Linked In Page"
+								><i class="fab fa-linkedin-in" /> <span class="sr-only">Linked In Profile</span></a
 							>
 						</li>
 						<li class="list-inline-item">
-							<a href="https://github.com/thomas-Basham"><i class="fab fa-github-alt" /></a>
+							<a href="https://github.com/thomas-Basham" title="Github Profile"
+								><i class="fab fa-github-alt" /><span class="sr-only">Github Profile</span></a
+							>
 						</li>
 						<!-- <li class="list-inline-item"><a href="#"><i class="fab fa-stack-overflow"></i></a></li>    -->
 						<li class="list-inline-item last-item">
-							<a href="https://leetcode.com/Thomas-Basham"><i class="fa-solid fa-code" /></a>
+							<a href="https://leetcode.com/Thomas-Basham" title="Leetcode Profile"
+								><i class="fa-solid fa-code" /><span class="sr-only">Leetcode Profile</span></a
+							>
 						</li>
 					</ul>
 				</div>
@@ -172,6 +176,7 @@
 										class="img-fluid project-image rounded shadow-sm"
 										src="images/projects/collab-done.png"
 										alt="Collab Done Project Website"
+										title="Collab Done Website"
 									/>
 								</a>
 								<div class="ribbon">
@@ -219,6 +224,7 @@
 									class="img-fluid project-image rounded shadow-sm"
 									src="images/projects/trout-finder.png"
 									alt="Trout Finder Website"
+									title="Trout Finder Website"
 								/>
 							</a>
 							<div class="desc col-md-8 col-12">
@@ -263,6 +269,7 @@
 									class="img-fluid project-image rounded shadow-sm"
 									src="images/projects/music-api.png"
 									alt="Music Api Website"
+									title="Music Api Website"
 								/>
 							</a>
 							<div class="desc col-md-8 col-12">
@@ -305,6 +312,7 @@
 									class="img-fluid project-image rounded shadow-sm"
 									src="images/projects/trails-api.png"
 									alt="Trails API Website"
+									title="Trails API Website"
 								/>
 							</a>
 							<div class="desc col-md-8 col-12">
@@ -566,7 +574,7 @@
 										data-bs-toggle="tooltip"
 										data-bs-placement="left"
 										title="JavaScript is a popular programming language used for web development and building interactive user interfaces. React is a JavaScript library for building user interfaces that focuses on the component-based approach and allows for efficient rendering of dynamic data."
-										><i class="fas fa-info-circle" />Proficient</span
+										><i class="fas fa-info-circle" />Advanced</span
 									>
 								</h3>
 								<div class="level-bar progress">
@@ -911,7 +919,7 @@
 				</div>
 			</aside>
 			<aside class="contact aside section">
-				<div class="section-inner shadow-sm rounded">
+				<div class="section-inner shadow-sm rounded ">
 					<h2 class="heading">Contact Me</h2>
 					<div class="content">
 						<ul class="list-unstyled pb-2">
