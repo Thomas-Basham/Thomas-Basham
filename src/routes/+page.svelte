@@ -587,7 +587,7 @@
 										class="level-label"
 										data-bs-toggle="tooltip"
 										data-bs-placement="left"
-										title="You can use the tooltip to explain more about your skill level..."
+										title="Bootstrap, Tailwind, and Material UI are all popular front-end web development frameworks that provide pre-designed UI components and styles to make it easier for developers to create visually appealing and responsive websites and applications."
 										><i class="fas fa-info-circle" />Proficient</span
 									>
 								</h3>
@@ -609,7 +609,7 @@
 										class="level-label"
 										data-bs-toggle="tooltip"
 										data-bs-placement="left"
-										title="You can use the tooltip to explain more about your skill level..."
+										title="HTML5 is the latest version of the Hypertext Markup Language used to create web pages and applications. CSS3 is a stylesheet language used to style and format HTML elements. SASS (Syntactically Awesome Style Sheets) is a preprocessor scripting language that extends CSS, allowing for more advanced styling features and improved organization of code."
 										><i class="fas fa-info-circle" />Proficient</span
 									>
 								</h3>
@@ -631,7 +631,7 @@
 										class="level-label"
 										data-bs-toggle="tooltip"
 										data-placement="left"
-										title="You can use the tooltip to explain more about your skill level..."
+										title="Svelte is a JavaScript-based full-stack web development framework that allows developers to build highly performant web applications by compiling the application code during the build process, resulting in smaller file sizes and faster loading times compared to traditional JavaScript frameworks."
 										><i class="fas fa-info-circle" />Learning</span
 									>
 								</h3>
