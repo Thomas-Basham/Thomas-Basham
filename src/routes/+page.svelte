@@ -85,7 +85,7 @@
 					width="180px"
 					height="180px"
 					class="profile-image img-fluid float-start rounded-circle"
-					src="images/profile.jpg"
+					src="images/profile.webp"
 					alt="profile"
 				/>
 				<div class="profile-content">
@@ -174,7 +174,7 @@
 								>
 									<img
 										class="img-fluid project-image rounded shadow-sm"
-										src="images/projects/collab-done.png"
+										src="images/projects/collab-done.webp"
 										alt="Collab Done Project Website"
 										title="Collab Done Website"
 									/>
@@ -222,7 +222,7 @@
 							>
 								<img
 									class="img-fluid project-image rounded shadow-sm"
-									src="images/projects/trout-finder.png"
+									src="images/projects/trout-finder.webp"
 									alt="Trout Finder Website"
 									title="Trout Finder Website"
 								/>
@@ -267,7 +267,7 @@
 							>
 								<img
 									class="img-fluid project-image rounded shadow-sm"
-									src="images/projects/music-api.png"
+									src="images/projects/music-api.webp"
 									alt="Music Api Website"
 									title="Music Api Website"
 								/>
@@ -310,7 +310,7 @@
 							>
 								<img
 									class="img-fluid project-image rounded shadow-sm"
-									src="images/projects/trails-api.png"
+									src="images/projects/trails-api.webp"
 									alt="Trails API Website"
 									title="Trails API Website"
 								/>
@@ -533,7 +533,7 @@
 
 			<aside class="skills aside section">
 				<div class="section-inner shadow-sm rounded">
-					<h2 class="heading">Skills</h2>
+					<h2 class="heading">Skills &amp; Tools</h2>
 					<div class="content">
 						<p class="intro">
 							I have a strong skill-set in web development, with expertise in Python and Django. I
@@ -558,6 +558,7 @@
 								<div class="level-bar progress">
 									<div
 										class="progress-bar level-bar-inner"
+										name="Python Django Skill bar"
 										role="progressbar"
 										style="width: 86%"
 										aria-valuenow="86"
@@ -579,6 +580,7 @@
 								</h3>
 								<div class="level-bar progress">
 									<div
+										name="Python Django Skill bar"
 										class="progress-bar level-bar-inner"
 										role="progressbar"
 										style="width: 77%"
@@ -601,6 +603,7 @@
 								</h3>
 								<div class="level-bar progress">
 									<div
+										name="Bootstrap, Tailwind, &amp; Material UI Skill bar"
 										class="progress-bar level-bar-inner"
 										role="progressbar"
 										style="width: 68%"
@@ -623,6 +626,7 @@
 								</h3>
 								<div class="level-bar progress">
 									<div
+										name="HTML5, CSS3, SASS Skill bar"
 										class="progress-bar level-bar-inner"
 										role="progressbar"
 										style="width: 63%"
@@ -645,6 +649,7 @@
 								</h3>
 								<div class="level-bar progress">
 									<div
+										name="Svelte Skill bar"
 										class="progress-bar level-bar-inner"
 										role="progressbar"
 										style="width: 48%"
