@@ -8,12 +8,12 @@
 	function sendEmail(e) {
 		let email = import.meta.env.VITE_COMPANY_EMAIL;
 		Email.send({
-			Host: 'smtp.elasticemail.com',
-			Username: import.meta.env.VITE_COMPANY_EMAIL,
+			Host: 'smtp.mailgun.org',
+			Username: email,
 			Password: import.meta.env.VITE_SMTP_ELASTIC_MAIL_PASSWORD,
-			To: email,
-			From: e.target.user_email.value,
-			Subject: 'You have a new message from ' + e.target.user_name.value,
+			To: 'bashamtg@gmail.com',
+			From: email,
+			Subject: 'You have a new message from ' + e.target.user_name.value + ' ' + e.target.user_email.value,
 			Body: `<html><h2>New Message</h2><strong>${e.target.message.value}</strong><br></br><em>Italic</em></html>`
 		}).then((message) => {
 			showForm = false;
