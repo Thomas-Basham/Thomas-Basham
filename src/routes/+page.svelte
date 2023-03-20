@@ -7,15 +7,16 @@
 	let showForm = true;
 	function sendEmail(e) {
 		const email = import.meta.env.VITE_COMPANY_EMAIL;
-		const username = import.meta.env.VITE_USERNAME
+		const username = import.meta.env.VITE_USERNAME;
 		Email.send({
 			Host: 'smtp.elasticemail.com',
 			Username: email,
 			Password: import.meta.env.VITE_SMTP_ELASTIC_MAIL_PASSWORD,
 			To: username,
 			From: email,
-			Subject: 'You have a new message from ' + e.target.user_name.value + ' ' + e.target.user_email.value,
-			Body: `<html><h2>New Message</h2><strong>${e.target.message.value}</strong><br></br><em>Italic</em></html>`
+			Subject:
+				'You have a new message from ' + e.target.user_name.value + ' ' + e.target.user_email.value,
+			Body: `<html><h2>New Message</h2><strong>${e.target.message.value}</strong><br></br></html>`
 		}).then((message) => {
 			showForm = false;
 			console.log(message);
