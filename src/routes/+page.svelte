@@ -9,7 +9,7 @@
 		const email = import.meta.env.VITE_COMPANY_EMAIL;
 		const username = import.meta.env.VITE_USERNAME
 		Email.send({
-			Host: 'smtp.mailgun.org',
+			Host: 'smtp.elasticemail.com',
 			Username: email,
 			Password: import.meta.env.VITE_SMTP_ELASTIC_MAIL_PASSWORD,
 			To: username,
