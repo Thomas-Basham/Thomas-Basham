@@ -10,7 +10,7 @@
 		const username = import.meta.env.VITE_USERNAME
 		Email.send({
 			Host: 'smtp.mailgun.org',
-			Username: username,
+			Username: email,
 			Password: import.meta.env.VITE_SMTP_ELASTIC_MAIL_PASSWORD,
 			To: username,
 			From: email,
