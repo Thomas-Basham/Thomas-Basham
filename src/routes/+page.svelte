@@ -149,13 +149,13 @@
 					<h2 class="heading">About Me</h2>
 					<div class="content">
 						<p>
-							Greetings, I am a software developer with a year of experience under my belt. I
-							pursued my education in computer science at Code Fellows and have been honing my
-							skills ever since. Prior to my career in tech, I worked as a carpenter, developing
-							skills that have proven to be invaluable in my current profession, such as attention
-							to detail and problem-solving. Additionally, I am a US army veteran who served from
-							2011-2015. I am based in Renton, WA and eager to continue growing my knowledge and
-							contributing to the industry.
+							Hello, I am a software developer with expertise in developing full stack dynamic web
+							applications with Python and Javascript. I pursued my education in computer science at
+							Code Fellows and have been honing my skills ever since. Prior to my career in tech, I
+							worked as a carpenter, developing skills that have proven to be invaluable in my
+							current profession, such as attention to detail and problem-solving. Additionally, I
+							am a US army veteran who served from 2011-2015. I am based in Renton, WA and eager to
+							continue growing my knowledge and contributing to the industry.
 						</p>
 					</div>
 					<!--//content-->
@@ -170,15 +170,15 @@
 							<div class="featured-image has-ribbon">
 								<a
 									class=""
-									href="https://collab-done.vercel.app/"
+									href="https://trout-finder.vercel.app"
 									target="_blank"
 									rel="noreferrer nofollow"
 								>
 									<img
 										class="img-fluid project-image rounded shadow-sm"
-										src="images/projects/collab-done.webp"
-										alt="Collab Done Project Website"
-										title="Collab Done Website"
+										src="images/projects/trout-finder.webp"
+										alt="Trout Finder Project Website"
+										title="Trout Finder Website"
 									/>
 								</a>
 								<div class="ribbon">
@@ -187,53 +187,11 @@
 							</div>
 
 							<h3 class="title mb-3">
-								Colab Done - A social media web app used to help musicians connect and collaborate
+								Trout Finder - The ultimate guide for stocked trout in Washington
 							</h3>
 
 							<div class="desc text-start">
 								<p>
-									Collab Done is a social media web application designed for musicians to connect
-									and collaborate. Users can upload unfinished song clips, view other artists'
-									uploads, play, pause, and skip to sections in a song with audio visualization,
-									comment on specific spots in a song, and send direct messages to other users. It's
-									built using Reactjs, Nextjs, Supabase, Wavesurferjs, Bootstrap, and React-Icons
-									and is deployed on Vercel.
-								</p>
-							</div>
-							<!--//desc-->
-							<a
-								class="btn btn-cta-third me-4"
-								href="https://collab-done.vercel.app/"
-								target="_blank"
-								rel="noreferrer nofollow">View Demo</a
-							>
-							<a
-								class="btn btn-cta-third"
-								href="https://github.com/Thomas-Basham/collab-done#readme"
-								target="_blank"
-								rel="noreferrer nofollow">View Code</a
-							>
-						</div>
-						<hr class="divider" />
-						<div class="item row">
-							<a
-								class="col-md-4 col-12"
-								href="https://trout-finder.vercel.app"
-								target="_blank"
-								rel="noreferrer nofollow"
-							>
-								<img
-									class="img-fluid project-image rounded shadow-sm"
-									src="images/projects/trout-finder.webp"
-									alt="Trout Finder Website"
-									title="Trout Finder Website"
-								/>
-							</a>
-							<div class="desc col-md-8 col-12">
-								<h3 class="title">
-									Trout Finder - The ultimate guide for stocked trout in Washington
-								</h3>
-								<p class="mb-2">
 									Trout Finder is a web application built with Python and Flask that displays
 									statistics on the number of trout fish stocked in various lakes across Washington
 									State. The app utilizes web scraping techniques with the BeautifulSoup library to
@@ -243,16 +201,58 @@
 									intervals. This app is intended for fishing enthusiasts and researchers who want
 									to stay up-to-date on the current trout population in Washington's lakes.
 								</p>
+							</div>
+							<!--//desc-->
+							<a
+								class="btn btn-cta-third me-4"
+								href="https://trout-finder.vercel.app"
+								target="_blank"
+								rel="noreferrer nofollow">View Demo</a
+							>
+							<a
+								class="btn btn-cta-third"
+								href="https://github.com/Thomas-Basham/trout-finder#readme"
+								target="_blank"
+								rel="noreferrer nofollow">View Code</a
+							>
+						</div>
+						<hr class="divider" />
+						<div class="item row">
+							<a
+								class="col-md-4 col-12"
+								href="https://collab-done.vercel.app/"
+								target="_blank"
+								rel="noreferrer nofollow"
+							>
+								<img
+									class="img-fluid project-image rounded shadow-sm"
+									src="images/projects/collab-done.webp"
+									alt="Collab Done Website"
+									title="Collab Done Website"
+								/>
+							</a>
+							<div class="desc col-md-8 col-12">
+								<h3 class="title">
+									Colab Done - A social media web app used to help musicians connect and collaborate
+								</h3>
+								<p class="mb-2">
+									Collab Done is a social media web application designed for musicians to connect
+									and collaborate. Users can upload unfinished song clips, view other artists'
+									uploads, play, pause, and skip to sections in a song with audio visualization,
+									comment on specific spots in a song, and send direct messages to other users. It's
+									built using Reactjs, Nextjs, Supabase, Wavesurferjs, Bootstrap, and React-Icons
+									and is deployed on Vercel.
+								</p>
 								<p>
 									<a
 										class="more-link me-4"
-										href="https://trout-finder.vercel.app"
+										href="https://collab-done.vercel.app/"
 										target="_blank"
 										rel="noreferrer nofollow"><i class="fas fa-external-link-alt" />Demo</a
 									>
 									<a
 										class="more-link"
-										href="https://github.com/Thomas-Basham/trout-finder#readme"
+										href="https://github.com/Thomas-Basham/collab-done#readme"
 										target="_blank"
 										rel="noreferrer nofollow"><i class="fas fa-external-link-alt" />Code</a
 									>
@@ -347,88 +347,16 @@
 							</div>
 							<!--//desc-->
 						</div>
+						<a
+							class="btn btn-cta-secondary"
+							href="https://github.com/Thomas-Basham"
+							target="_blank"
+							rel="noreferrer nofollow">More on GitHub <i class="fas fa-chevron-right pt-1" /></a
+						>
 					</div>
 					<!--//content-->
 				</div>
 			</section>
-
-			<!-- <section class="projects section">
-        <div class="section-inner shadow-sm rounded">
-          <h2 class="heading">Other Projects</h2>
-          <div class="content">
-            <div class="item">
-              <h3 class="title">
-                <a
-                  href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap4-resume-cv-template-for-developers-pillar/"
-                  target="_blank"
-                  >Pillar - Free Boootstrap Resume/CV Template for Developers</a
-                > <span class="badge badge-theme">Free</span>
-              </h3>
-              <p class="summary">
-                Provide a brief description of your project. Ut enim ad minima
-                veniam, quis nostrum exercitationem ullam corporis suscipit
-                laboriosam, nisi ut aliquid ex ea commodi consequatu.
-              </p>
-              <p>
-                <a
-                  class="more-link"
-                  href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap4-resume-cv-template-for-developers-pillar/"
-                  target="_blank"
-                  ><i class="fas fa-external-link-alt" />Download Now</a
-                >
-              </p>
-            </div>
-            <div class="item">
-              <h3 class="title">
-                <a
-                  href="https://themes.3rdwavemedia.com/bootstrap-templates/speciality/devblog-free-bootstrap-4-blog-template-for-developers/"
-                  target="_blank"
-                  >DevBlog - Free Boootstrap Blog Template for Developers</a
-                > <span class="badge badge-theme">Free</span>
-              </h3>
-              <p class="summary">
-                Provide a brief description of your project. Maecenas ornare
-                ultricies risus, in fermentum augue consectetur in. Vestibulum
-                vitae mauris iaculis, sollicitudin velit in, molestie nulla.
-              </p>
-              <p>
-                <a
-                  class="more-link"
-                  href="https://themes.3rdwavemedia.com/bootstrap-templates/speciality/devblog-free-bootstrap-4-blog-template-for-developers/"
-                  target="_blank"
-                  ><i class="fas fa-external-link-alt" />Download Now</a
-                >
-              </p>
-            </div>
-            <div class="item">
-              <h3 class="title">
-                <a
-                  href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/nova-bootstrap-landing-page-template-for-mobile-apps/"
-                  target="_blank"
-                  >Nova - Free App Landing Page Template for App Developers</a
-                > <span class="badge badge-theme">Free</span>
-              </h3>
-              <p class="summary">
-                Provide a brief description of your project. Lorem ipsum dolor
-                sit amet, consectetur adipiscing elit. In vel purus enim. Etiam
-                tortor felis, fermentum ac ultrices sed.
-              </p>
-              <p>
-                <a
-                  class="more-link"
-                  href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/nova-bootstrap-landing-page-template-for-mobile-apps/"
-                  target="_blank"
-                  ><i class="fas fa-external-link-alt" />Download Now</a
-                >
-              </p>
-            </div>
-
-            <a class="btn btn-cta-secondary" href="#"
-              >More on GitHub <i class="fas fa-chevron-right pt-1" /></a
-            >
-          </div>
-        </div>
-      </section> -->
 
 			<section class="experience section">
 				<div class="section-inner shadow-sm rounded">
@@ -553,7 +481,7 @@
 										data-bs-toggle="tooltip"
 										data-bs-placement="left"
 										title="Python is a programming language that is simple, versatile, and popular. Django is a Python web framework that helps developers build web applications quickly and easily."
-										><i class="fas fa-info-circle" />Expert</span
+										><i class="fas fa-info-circle" />Advanced</span
 									>
 								</h3>
 
@@ -753,7 +681,9 @@
 							<li class="item">
 								<span class="title"><strong>Spanish:</strong></span>
 								<span class="level"
-									>Learning <br class="visible-sm visible-xs" /><i class="fas fa-star" />
+									>Limited Working Proficiency <br class="visible-sm visible-xs" /><i
+										class="fas fa-star"
+									/>
 									<i class="fas fa-star-half" /></span
 								>
 							</li>
@@ -852,23 +782,6 @@
 					<!--//content-->
 				</div>
 			</aside>
-
-			<!-- <aside class="list conferences aside section">
-        <div class="section-inner shadow-sm rounded">
-          <h2 class="heading">Conferences</h2>
-          <div class="content">
-            <ul class="list-unstyled">
-              <li>
-                <i class="far fa-calendar-alt" />
-                <a href="#" target="_blank">WWDC 2030</a> (San Francisco)
-              </li>
-              <li>
-                <i class="far fa-calendar-alt" /> <a href="#">Hive</a> (Seattle)
-              </li>
-            </ul>
-          </div>
-        </div>
-      </aside> -->
 
 			<aside class="credits aside section">
 				<div class="section-inner shadow-sm rounded">
