@@ -96,18 +96,30 @@
 					<ul class="social list-inline">
 						<!-- <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li> -->
 						<li class="list-inline-item">
-							<a href="https://www.linkedin.com/in/thomas-basham" title="Linked In Page"
+							<a
+								href="https://www.linkedin.com/in/thomas-basham"
+								title="Linked In Page"
+								target="_blank"
+								rel="noreferrer nofollow"
 								><i class="fab fa-linkedin-in" /> <span class="sr-only">Linked In Profile</span></a
 							>
 						</li>
 						<li class="list-inline-item">
-							<a href="https://github.com/thomas-Basham" title="Github Profile"
+							<a
+								href="https://github.com/thomas-Basham"
+								title="Github Profile"
+								target="_blank"
+								rel="noreferrer nofollow"
 								><i class="fab fa-github-alt" /><span class="sr-only">Github Profile</span></a
 							>
 						</li>
 						<!-- <li class="list-inline-item"><a href="#"><i class="fab fa-stack-overflow"></i></a></li>    -->
 						<li class="list-inline-item last-item">
-							<a href="https://leetcode.com/Thomas-Basham" title="Leetcode Profile"
+							<a
+								href="https://leetcode.com/Thomas-Basham"
+								title="Leetcode Profile"
+								target="_blank"
+								rel="noreferrer nofollow"
 								><i class="fa-solid fa-code" /><span class="sr-only">Leetcode Profile</span></a
 							>
 						</li>
