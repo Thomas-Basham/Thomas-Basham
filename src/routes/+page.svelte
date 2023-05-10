@@ -433,8 +433,12 @@
 						<div class="item">
 							<h3 class="title">
 								Calvary Scout (Sergeant) - <span class="place"
-									><a href="#" target="_blank" rel="noreferrer nofollow">US Army</a></span
-								> <span class="year">(2018 - 2019)</span>
+									><a
+										href="https://www.goarmy.com/explore-the-army/army-structure/reserve.html"
+										target="_blank"
+										rel="noreferrer nofollow">US Army</a
+									></span
+								> <span class="year">(2011 - 2015)</span>
 							</h3>
 							<p>
 								As a Calvary Scout in the US Army, I was responsible for operating weapons systems
