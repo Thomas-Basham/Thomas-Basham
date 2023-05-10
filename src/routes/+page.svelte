@@ -161,8 +161,8 @@
 					<h2 class="heading">About Me</h2>
 					<div class="content">
 						<p>
-							Hello, I am a software developer with expertise in developing full stack dynamic web
-							applications with Python and Javascript. I pursued my education in computer science at
+							Hello, I am a software developer specializing in developing full stack dynamic web
+							applications with Python and JavaScript. I pursued my education in computer science at
 							Code Fellows and have been honing my skills ever since. Prior to my career in tech, I
 							worked as a carpenter, developing skills that have proven to be invaluable in my
 							current profession, such as attention to detail and problem-solving. Additionally, I
@@ -376,6 +376,24 @@
 					<div class="content">
 						<div class="item">
 							<h3 class="title">
+								Teacher's Assistant - <span class="place"
+									><a href="https://codex.academy" target="_blank" rel="noreferrer nofollow"
+										>Codex Academy Technologies</a
+									></span
+								> <span class="year">(2023 - present)</span>
+							</h3>
+							<p>
+								Being a Teacher's Assistant at CodeX Academy is an awesome experience! I get to help
+								students learn programming languages like Python and JavaScript while building cool
+								web applications with HTML, CSS, and React. I love seeing my students grow and
+								succeed, and it's great to be a part of a team that is passionate about education.
+								There are some challenges, but I'm always ready to adapt and find solutions.
+								Overall, it's a fun and rewarding job that allows me to make a positive impact in
+								the lives of others.
+							</p>
+						</div>
+						<div class="item">
+							<h3 class="title">
 								Custom Closet Carpenter - <span class="place"
 									><a
 										href="https://www.containerstore.com/custom-spaces/closet"
@@ -385,8 +403,8 @@
 								> <span class="year">(2021 - 2022)</span>
 							</h3>
 							<p>
-								As a Custom Closet Carpenter at The Container Store, I built 5 custom closets per
-								week to meet customer needs. I worked closely with sales associates and project
+								As a Custom Closet Carpenter at The Container Store, I built up to 10 custom closets
+								per week to meet customer needs. I worked closely with sales associates and project
 								managers to ensure accurate scoping and estimation. Using precision tools, I
 								achieved a 99% accuracy rate in all builds. This experience showcases my attention
 								to detail and ability to deliver quality work in a fast-paced environment, skills
@@ -399,7 +417,7 @@
 									><a href="https://westmarkconst.com" target="_blank" rel="noreferrer nofollow"
 										>Westmark Construction</a
 									></span
-								> <span class="year">(2019 - 2022)</span>
+								> <span class="year">(2018 - 2019)</span>
 							</h3>
 							<p>
 								As a Lead Carpenter at Westmark Construction, I collaborated with a team to complete
@@ -716,7 +734,7 @@
 
 			<aside class="list music aside section">
 				<div class="section-inner shadow-sm rounded">
-					<h2 class="heading">Favorite coding music</h2>
+					<h2 class="heading">Some Songs I like</h2>
 					<div class="content">
 						<ul class="list-unstyled">
 							<li>
