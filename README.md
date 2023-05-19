@@ -11,14 +11,14 @@ Prior to my career in tech, I worked as a carpenter, developing skills that have
 
 ## **Latest Projects:**
 
-### [Trout Finder](https://github.com/Thomas-Basham/trout-finder)
+### [Washington Trout Stats](https://github.com/Thomas-Basham/trout-finder)
 
-A Flask Web App used for displaying statistics on stocked trout in Washington State. Built with Python, Flask, BeautifulSoup, PostgresQL, Folium, and Github Chron Job.
+A Web App used for displaying statistics on stocked trout in Washington State. Built with Python, Flask, BeautifulSoup, PostgresQL, Folium, and GitHub Chron Job.
 
 ### [Collab Done](https://github.com/Thomas-Basham/trout-finder)
 
-A React social media app for musicians to connect and collaborate. Built with NextJS, ReactJS, Supabase(An open source Firebase Alternative), and WavesurferJS.
+A social media web app for musicians to connect and collaborate. Built with NextJS, ReactJS, Supabase(An open source Firebase Alternative), and WavesurferJS.
 
 ### [Music API](https://github.com/Thomas-Basham/music-api)
 
-A Full Stack Django Rest Framework API for storing favorite royalty free music. Built with Django Rest Framework, PostgreSQL, Paginator, and Cloudinary bucket for user file uploads
+A Full Stack API for storing royalty free music to be used in websites. Built with Django Rest Framework, PostgreSQL, Paginator, and Cloudinary bucket for user file uploads
