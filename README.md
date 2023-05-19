@@ -15,7 +15,7 @@ Prior to my career in tech, I worked as a carpenter, developing skills that have
 
 A web app used for displaying statistics on stocked trout in Washington State. Built with Python, Flask, BeautifulSoup, PostgresQL, Folium, and GitHub Chron Job.
 
-### [Collab Done](https://github.com/Thomas-Basham/trout-finder)
+### [Collab Done](https://github.com/Thomas-Basham/collab-done)
 
 A social media web app for musicians to connect and collaborate. Built with NextJS, ReactJS, Supabase(An open source Firebase Alternative), and WavesurferJS.
 
