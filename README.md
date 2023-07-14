@@ -17,7 +17,7 @@ A web app used for displaying statistics on stocked trout in Washington State. B
 
 ### [Collab Done](https://github.com/Thomas-Basham/collab-done)
 
-A social media web app for musicians to connect and collaborate. Built with NextJS, ReactJS, Supabase(An open source Firebase Alternative), and WavesurferJS.
+A social media web app for musicians to connect and collaborate. Built with JavaScript, TypeScript, NextJS, ReactJS, Supabase(An open source Firebase Alternative), and WavesurferJS.
 
 ### [Music API](https://github.com/Thomas-Basham/music-api)
 
