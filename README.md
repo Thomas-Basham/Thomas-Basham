@@ -22,3 +22,9 @@ A social media web app for musicians to connect and collaborate. Built with Next
 ### [Music API](https://github.com/Thomas-Basham/music-api)
 
 A Full Stack API for storing royalty free music to be used in websites. Built with Django Rest Framework, PostgreSQL, Paginator, and Cloudinary bucket for user file uploads
+
+## Helpful resources for new developers
+
+[Dev Keyboard Shortcuts](https://github.com/Thomas-Basham/dev-keyboard-shortcuts)
+
+[Git Commands for Beginners](https://github.com/Thomas-Basham/git-commands-for-beginners)
