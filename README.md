@@ -29,4 +29,4 @@ A Full Stack API for storing royalty free music to be used in websites. Built wi
 
 [Git Commands for Beginners](https://github.com/Thomas-Basham/git-commands-for-beginners)
 
-[How to create a reverse PR for code review[(https://ior.ad/9lDV?iframeHash=watchsteps-1)
+[How to create a reverse PR for code review](https://ior.ad/9lDV?iframeHash=watchsteps-1)
