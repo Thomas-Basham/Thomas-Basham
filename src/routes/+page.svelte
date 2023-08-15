@@ -87,7 +87,7 @@
 					width="180px"
 					height="180px"
 					class="profile-image img-fluid float-start rounded-circle"
-					src="images/profile.webp"
+					src="images/thomas-headshot.png"
 					alt="profile"
 				/>
 				<div class="profile-content">
@@ -111,16 +111,6 @@
 								target="_blank"
 								rel="noreferrer nofollow"
 								><i class="fab fa-github-alt" /><span class="sr-only">Github Profile</span></a
-							>
-						</li>
-						<!-- <li class="list-inline-item"><a href="#"><i class="fab fa-stack-overflow"></i></a></li>    -->
-						<li class="list-inline-item last-item">
-							<a
-								href="https://leetcode.com/Thomas-Basham"
-								title="Leetcode Profile"
-								target="_blank"
-								rel="noreferrer nofollow"
-								><i class="fa-solid fa-code" /><span class="sr-only">Leetcode Profile</span></a
 							>
 						</li>
 					</ul>
@@ -162,12 +152,16 @@
 					<div class="content">
 						<p>
 							Hello, I am a software developer making data look beautiful with Python and
-							JavaScript. I pursued my education in computer science at Code Fellows and have been
-							honing my skills ever since. Prior to my career in tech, I worked as a carpenter,
-							developing skills that have proven to be invaluable in my current profession, such as
-							attention to detail and problem-solving. Additionally, I am a US army veteran who
-							served from 2011-2015. I am based in Renton, WA and eager to continue growing my
-							knowledge and contributing to the industry.
+							JavaScript. I pursued my education in computer science at Code Fellows and since then
+							I've focused on creating data driven applications using a variety of web frameworks.
+							<br />
+							<br />
+
+							Prior to my career in tech, I worked as a carpenter, developing skills that have
+							proven to be invaluable in my current profession, such as attention to detail and
+							problem-solving. Additionally, I am a US army veteran who served from 2011-2015. I am
+							based in Renton, WA and eager to continue growing my knowledge and contributing to the
+							industry.
 						</p>
 					</div>
 					<!--//content-->
@@ -182,15 +176,15 @@
 							<div class="featured-image has-ribbon">
 								<a
 									class=""
-									href="https://trout-finder.vercel.app"
+									href="https://washington-trout-stats.vercel.app/"
 									target="_blank"
 									rel="noreferrer nofollow"
 								>
 									<img
 										class="img-fluid project-image rounded shadow-sm"
 										src="images/projects/trout-finder.webp"
-										alt="Trout Finder Project Website"
-										title="Trout Finder Website"
+										alt="Washington Trout Stats Project Website"
+										title="Washington Trout Stats Website"
 									/>
 								</a>
 								<div class="ribbon">
@@ -199,31 +193,31 @@
 							</div>
 
 							<h3 class="title mb-3">
-								Trout Finder - The ultimate guide for stocked trout in Washington
+								Washington Trout Stats - The ultimate guide for stocked trout in Washington
 							</h3>
 
 							<div class="desc text-start">
 								<p>
-									Trout Finder is a web application built with Python and Flask that displays
-									statistics on the number of trout fish stocked in various lakes across Washington
-									State. The app utilizes web scraping techniques with the BeautifulSoup library to
-									gather data from various sources and SQLAlchemy to process and analyze the data. A
-									PostgreSQL database is used to store the collected data. Additionally, a Github
-									Cron job is set up to run the data collection process automatically at specified
-									intervals. This app is intended for fishing enthusiasts and researchers who want
-									to stay up-to-date on the current trout population in Washington's lakes.
+									Washington Trout Stats is a web application built with Python and Flask that
+									displays statistics on the number of trout fish stocked in various lakes across
+									Washington State. The app utilizes web scraping techniques with the BeautifulSoup
+									library to gather data from various sources and SQLAlchemy to process and analyze
+									the data. A PostgreSQL database is used to store the collected data. Additionally,
+									a Github Cron job is set up to run the data collection process automatically at
+									specified intervals. This app is intended for fishing enthusiasts and researchers
+									who want to stay up-to-date on the current trout population in Washington's lakes.
 								</p>
 							</div>
 							<!--//desc-->
 							<a
 								class="btn btn-cta-third me-4"
-								href="https://trout-finder.vercel.app"
+								href="https://washington-trout-stats.vercel.app/"
 								target="_blank"
 								rel="noreferrer nofollow">View Demo</a
 							>
 							<a
 								class="btn btn-cta-third"
-								href="https://github.com/Thomas-Basham/trout-finder#readme"
+								href="https://github.com/Thomas-Basham/washington-trout-stats#readme"
 								target="_blank"
 								rel="noreferrer nofollow">View Code</a
 							>
@@ -245,7 +239,8 @@
 							</a>
 							<div class="desc col-md-8 col-12">
 								<h3 class="title">
-									Colab Done - A social media web app used to help musicians connect and collaborate
+									Collab Done - A social media web app used to help musicians connect and
+									collaborate
 								</h3>
 								<p class="mb-2">
 									Collab Done is a social media web application designed for musicians to connect
@@ -376,11 +371,28 @@
 					<div class="content">
 						<div class="item">
 							<h3 class="title">
+								JavaScript Instructor - <span class="place"
+									><a href="https://codex.academy" target="_blank" rel="noreferrer nofollow"
+										>Codex Academy Technologies</a
+									></span
+								> <span class="year">(June 2023 - Present)</span>
+							</h3>
+							<p>
+								At Codex Academy, I relish guiding future developers through the intricate world of
+								JavaScript. The "aha" moments, collaborative community, and dynamic teaching
+								environment make every day fulfilling. Codex Academy's innovation-driven approach
+								keeps me inspired, enabling me to empower learners effectively. In essence, I'm not
+								just an instructor here; I'm part of a transformative journey that shapes aspiring
+								coders into tech trailblazers.
+							</p>
+						</div>
+						<div class="item">
+							<h3 class="title">
 								Teacher's Assistant - <span class="place"
 									><a href="https://codex.academy" target="_blank" rel="noreferrer nofollow"
 										>Codex Academy Technologies</a
 									></span
-								> <span class="year">(2023 - present)</span>
+								> <span class="year">(April 2023 - June 2023)</span>
 							</h3>
 							<p>
 								Being a Teacher's Assistant at CodeX Academy is an awesome experience! I get to help
@@ -534,7 +546,7 @@
 
 							<div class="item">
 								<h3 class="level-title">
-									Javascript &amp; React<span
+									JavaScript &amp; React<span
 										class="level-label"
 										data-bs-toggle="tooltip"
 										data-bs-placement="left"
@@ -549,6 +561,29 @@
 										role="progressbar"
 										style="width: 77%"
 										aria-valuenow="77"
+										aria-valuemin="0"
+										aria-valuemax="96"
+									/>
+								</div>
+							</div>
+
+							<div class="item">
+								<h3 class="level-title">
+									SQL<span
+										class="level-label"
+										data-bs-toggle="tooltip"
+										data-placement="left"
+										title="Structured query language (SQL) is a programming language for storing and processing information in a relational database. A relational database stores information in tabular form, with rows and columns representing different data attributes and the various relationships between the data values."
+										><i class="fas fa-info-circle" />Proficient</span
+									>
+								</h3>
+								<div class="level-bar progress">
+									<div
+										name="SQL Skill bar"
+										class="progress-bar level-bar-inner"
+										role="progressbar"
+										style="width: 72%"
+										aria-valuenow="72"
 										aria-valuemin="0"
 										aria-valuemax="96"
 									/>
@@ -600,40 +635,17 @@
 									/>
 								</div>
 							</div>
-
-							<div class="item">
-								<h3 class="level-title">
-									Svelte<span
-										class="level-label"
-										data-bs-toggle="tooltip"
-										data-placement="left"
-										title="Svelte is a JavaScript-based full-stack web development framework that allows developers to build highly performant web applications by compiling the application code during the build process, resulting in smaller file sizes and faster loading times compared to traditional JavaScript frameworks."
-										><i class="fas fa-info-circle" />Learning</span
-									>
-								</h3>
-								<div class="level-bar progress">
-									<div
-										name="Svelte Skill bar"
-										class="progress-bar level-bar-inner"
-										role="progressbar"
-										style="width: 48%"
-										aria-valuenow="48"
-										aria-valuemin="0"
-										aria-valuemax="96"
-									/>
-								</div>
-							</div>
 						</div>
 					</div>
 					<!--//content-->
-					<img
+					<!-- <img
 						alt="top languages from github"
 						width="100%"
 						src={$ThemeStore.theme == 'dark'
 							? 'https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-basham&exclude_repo=data-structures-and-algorithms&langs_count=5&hide=c,cython&range=last_6_months&bg_color=1e2124&hide_border=true&theme=dark'
 							: 'https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-basham&exclude_repo=data-structures-and-algorithms&langs_count=5&hide=c,cython&range=last_6_months&hide_border=true&title_color=545e69'}
 						frameborder="0"
-					/>
+					/> -->
 					<p>
 						<a
 							target="_blank"
