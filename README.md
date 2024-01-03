@@ -11,7 +11,7 @@ Prior to my career in tech, I worked as a carpenter, developing skills that have
 
 ## **Latest Projects:**
 
-### [Washington Trout Stats](https://github.com/Thomas-Basham/trout-finder)
+### [Trout Tracker WA](https://github.com/Thomas-Basham/trout-tracker-wa)
 
 A web app used for displaying statistics on stocked trout in Washington State. Built with Python, Flask, BeautifulSoup, PostgresQL, Folium, and GitHub Chron Job.
 
