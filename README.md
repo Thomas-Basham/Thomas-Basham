@@ -1,32 +1,27 @@
-# Thomas Basham
+# Thomas Basham - Full Stack Software Developer
 
-## Full Stack Software Developer
+Hello, I'm Thomas! As a passionate Full Stack Developer, I specialize in transforming data into visually appealing and meaningful experiences using Python and JavaScript. My journey in computer science began at Code Fellows, where I honed my skills in various web frameworks, focusing predominantly on data-driven applications.
 
-Software developer making data look beautiful with Python and
-JavaScript. I pursued my education in computer science at Code Fellows and since then I've focused on creating data driven applications using a variety of web frameworks.
+Before stepping into the world of technology, I was a carpenter. The skills I developed there - particularly attention to detail and problem-solving - have been invaluable in my software development career. I'm also proud to have served in the US Army from 2011-2015. Currently, I'm based in Renton, WA, where I'm committed to continuous learning and making impactful contributions to the tech industry.
 
-Prior to my career in tech, I worked as a carpenter, developing skills that have proven to be invaluable in my current profession, such as attention to detail and problem-solving. Additionally, I am a US army veteran who served from 2011-2015. I am based in Renton, WA and eager to continue growing my knowledge and contributing to the industry.
+### 🌐 **Personal Website:** [thomasbasham.dev](https://thomasbasham.dev)
 
-### **Personal Website:** [thomasbasham.dev](https://thomasbasham.dev)
+## 💼 Latest Projects
 
-## **Latest Projects:**
+### 🐟 [Trout Tracker WA](https://github.com/Thomas-Basham/trout-tracker-wa)
 
-### [Trout Tracker WA](https://github.com/Thomas-Basham/trout-tracker-wa)
+An interactive web app for anglers tracking stocked trout in Washington State. It's built with Python, Flask, JavaScript, TypeScript, NextJS, BeautifulSoup, PostgresQL, Folium, and leverages GitHub Chron Job for data updates.
 
-A web app used for displaying statistics on stocked trout in Washington State. Built with Python, Flask, BeautifulSoup, PostgresQL, Folium, and GitHub Chron Job.
+### 🎶 [Collab Done](https://github.com/Thomas-Basham/collab-done)
 
-### [Collab Done](https://github.com/Thomas-Basham/collab-done)
+A dynamic social media platform tailored for musicians to connect and collaborate. Developed using JavaScript, TypeScript, NextJS, ReactJS, Supabase, and WavesurferJS.
 
-A social media web app for musicians to connect and collaborate. Built with JavaScript, TypeScript, NextJS, ReactJS, Supabase(An open source Firebase Alternative), and WavesurferJS.
+### 🎵 [Music API](https://github.com/Thomas-Basham/music-api)
 
-### [Music API](https://github.com/Thomas-Basham/music-api)
+A comprehensive Full Stack API designed for hosting royalty-free music, ideal for website integration. This project utilizes Django Rest Framework, PostgreSQL, Paginator, and Cloudinary bucket for efficient file uploads.
 
-A Full Stack API for storing royalty free music to be used in websites. Built with Django Rest Framework, PostgreSQL, Paginator, and Cloudinary bucket for user file uploads
+## 📚 Resources for New Developers
 
-## Helpful resources for new developers
-
-[Dev Keyboard Shortcuts](https://github.com/Thomas-Basham/dev-keyboard-shortcuts)
-
-[Git Commands for Beginners](https://github.com/Thomas-Basham/git-commands-for-beginners)
-
-[How to create a reverse PR for code review](https://ior.ad/9lDV?iframeHash=watchsteps-1)
+- [Dev Keyboard Shortcuts](https://github.com/Thomas-Basham/dev-keyboard-shortcuts): A curated list of keyboard shortcuts to enhance productivity.
+- [Git Commands for Beginners](https://github.com/Thomas-Basham/git-commands-for-beginners): A beginner-friendly guide to fundamental Git commands.
+- [Creating a Reverse PR for Code Review](https://ior.ad/9lDV?iframeHash=watchsteps-1): An insightful tutorial on reverse pull requests in GitHub.
