@@ -1,8 +1,6 @@
-# Thomas Basham - Full Stack Software Developer
+# Thomas Basham - Software Developer
 
-Hello, I'm Thomas! As a passionate Full Stack Developer, I specialize in transforming data into visually appealing and meaningful experiences using Python and JavaScript. My journey in computer science began at Code Fellows, where I honed my skills in various web frameworks, focusing predominantly on data-driven applications.
-
-Before stepping into the world of technology, I was a carpenter. The skills I developed there - particularly attention to detail and problem-solving - have been invaluable in my software development career. I'm also proud to have served in the US Army from 2011-2015. Currently, I'm based in Renton, WA, where I'm committed to continuous learning and making impactful contributions to the tech industry.
+Before stepping into the tech world, I was a carpenter. I'm also proud to have served in the US Army from 2011-2015. Currently, I'm working remotely from Renton, WA, where I'm committed to continuous learning and making impactful contributions to the tech industry.
 
 ### 🌐 **Personal Website:** [thomasbasham.dev](https://thomasbasham.dev)
 
@@ -10,7 +8,7 @@ Before stepping into the world of technology, I was a carpenter. The skills I de
 
 ### 🐟 [Trout Tracker WA](https://github.com/Thomas-Basham/trout-tracker-wa)
 
-An interactive web app for anglers tracking stocked trout in Washington State. It's built with Python, Flask, JavaScript, TypeScript, NextJS, BeautifulSoup, PostgresQL, Folium, and leverages GitHub Chron Job for data updates.
+An interactive web app for anglers tracking stocked trout in Washington State. It's built with Python, Flask, JavaScript, TypeScript, NextJS, ReactJS, BeautifulSoup, PostgresQL, and leverages GitHub Chron Job for data updates.
 
 ### 🎶 [Collab Done](https://github.com/Thomas-Basham/collab-done)
 
