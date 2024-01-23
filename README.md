@@ -1,6 +1,6 @@
 # Thomas Basham - Software Developer
 
-Before stepping into the tech world, I was a carpenter. I'm also proud to have served in the US Army from 2011-2015. Currently, I'm working remotely from Renton, WA, where I'm committed to continuous learning and making impactful contributions to the tech industry.
+Before stepping into the tech world, I was a carpenter. I'm also proud to have served in the US Army from 2011-2015. Currently, I'm working remotely from Renton, WA, where I'm committed to continuous learning and making impactful contributions to the tech industry. All of my public projects here on GitHub are open source and contributions are welcome.
 
 ### 🌐 **Personal Website:** [thomasbasham.dev](https://thomasbasham.dev)
 
