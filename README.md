@@ -8,7 +8,7 @@ Hi, I'm Thomas. Before stepping into the tech world, I was a carpenter. I'm also
 
 ### 🐟 [Trout Tracker WA](https://github.com/Thomas-Basham/trout-tracker-wa)
 
-An interactive web app for anglers tracking stocked trout in Washington State. It's built with Python, Flask, JavaScript, TypeScript, NextJS, ReactJS, BeautifulSoup, PostgresQL, and leverages GitHub Chron Job for data updates.
+An interactive web app for anglers tracking stocked trout in Washington State. It's built with Python, Flask, JavaScript, TypeScript, NextJS, ReactJS, BeautifulSoup, PostgreSQL database, and leverages GitHub Chron Job for data updates.
 
 ### 🎶 [Collab Done](https://github.com/Thomas-Basham/collab-done)
 
