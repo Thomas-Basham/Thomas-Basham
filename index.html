@@ -56,10 +56,22 @@
 
       .hero img {
         width: 180px;
-        border-radius: 50%;
+        height: auto;
+        object-fit: cover;
+        position: absolute;
+        top: -25px;
+        left: 0;
+      }
+
+      .circle-container {
         margin-bottom: 1.5rem;
-        box-shadow: 0 0 20px var(--primary);
         animation: fadeInUp 0.8s ease-out forwards;
+        box-shadow: 0 0 20px var(--primary);
+        width: 180px;
+        height: 180px;
+        border-radius: 50%;
+        overflow: hidden;
+        position: relative;
       }
 
       .links {
@@ -106,7 +118,9 @@
   </head>
   <body>
     <div class="hero">
-      <img src="headshot.jpeg" alt="Thomas Basham" />
+      <div class="circle-container">
+        <img src="headshot.jpeg" alt="Thomas Basham" />
+      </div>
       <h1>Hi, I'm Thomas Basham</h1>
       <p>Full Stack Engineer | Cloud Engineer | Data-Driven Dreamer</p>
       <div class="links">
