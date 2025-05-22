@@ -28,7 +28,7 @@ const thomas = {
 | ------------------ | --------------------------------------------------------------------------- |
 | **Frontend**       | React, Next.js, TailwindCSS, SWR, Redis                                     |
 | **Backend**        | Node.js, Express, FastAPI, Django, Supabase, PostgreSQL                     |
-| **Cloud & DevOps** | AWS (Lambda, RDS, API Gateway, IAM, CloudFormation), Docker, GitHub Actions |
+| **Cloud & DevOps** | AWS (Lambda, RDS, API Gateway, IAM, CloudFormation, ECS, EC2), Docker, GitHub Actions |
 
 ---
 
