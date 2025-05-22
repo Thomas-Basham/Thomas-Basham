@@ -3,54 +3,125 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Thomas Basham - Full Stack Developer</title>
+    <title>Thomas Basham | Full Stack Engineer</title>
     <link
-      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Open+Sans&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="style.css" />
+    <style>
+      :root {
+        --primary: #7f5af0;
+        --accent: #2cb67d;
+        --bg: #0f0e17;
+        --text: #fffffe;
+        --subtle: #a7a9be;
+      }
+
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        background: var(--bg);
+        color: var(--text);
+        font-family: "Fira Code", monospace;
+        overflow-x: hidden;
+      }
+
+      .hero {
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 2rem;
+        background: radial-gradient(circle at center, #1a1a2e, #0f0e17);
+      }
+
+      .hero h1 {
+        font-size: 3rem;
+        margin-bottom: 1rem;
+        color: var(--primary);
+        animation: fadeInUp 1s ease-out forwards;
+      }
+
+      .hero p {
+        font-size: 1.2rem;
+        color: var(--subtle);
+        animation: fadeInUp 1.5s ease-out forwards;
+      }
+
+      .hero img {
+        width: 180px;
+        border-radius: 50%;
+        margin-bottom: 1.5rem;
+        box-shadow: 0 0 20px var(--primary);
+        animation: fadeInUp 0.8s ease-out forwards;
+      }
+
+      .links {
+        margin-top: 2rem;
+        display: flex;
+        gap: 1.5rem;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+
+      .links a {
+        text-decoration: none;
+        color: var(--accent);
+        border: 2px solid var(--accent);
+        padding: 0.6rem 1.2rem;
+        border-radius: 12px;
+        transition: 0.3s ease;
+        font-weight: bold;
+      }
+
+      .links a:hover {
+        background: var(--accent);
+        color: var(--bg);
+      }
+
+      @keyframes fadeInUp {
+        from {
+          opacity: 0;
+          transform: translateY(40px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      .footer {
+        text-align: center;
+        padding: 2rem;
+        font-size: 0.9rem;
+        color: var(--subtle);
+      }
+    </style>
   </head>
   <body>
-    <div id="tiles-container">
-      <div class="centered box container">
-        <img src="headshot.jpeg" alt="Thomas Basham" class="headshot" />
-        <h1 class="type-effect" data-text="Thomas Basham"></h1>
-        <p
-          class="role type-effect"
-          data-text=" Software Developer"
-        ></p>
-        <p class="location type-effect" data-text="Renton, WA"></p>
-        <p class="email type-effect" data-text="Bashamtg@gmail.com"></p>
-        <div class="links">
-          <a
-            target="_blank"
-            rel="nofollow noreferrer"
-            class="animated-link"
-            data-text=""
-            href="https://linkedin.com/in/thomas-basham"
-            >LinkedIn</a
-          >
-          |
-          <a
-            target="_blank"
-            rel="nofollow noreferrer"
-            class="animated-link"
-            data-text=""
-            href="https://github.com/thomas-basham"
-            >GitHub (projects)</a
-          >
-          |
-          <a
-            target="_blank"
-            rel="nofollow noreferrer"
-            class="animated-link"
-            data-text=""
-            href="https://docs.google.com/document/d/1PnKGuPzRPiMQJAhLYIPHlvT13haJNWJmuDBsQZAmskg/edit?usp=sharing"
-            >Resume</a
-          >
-        </div>
+    <div class="hero">
+      <img src="headshot.jpeg" alt="Thomas Basham" />
+      <h1>Hi, I'm Thomas Basham</h1>
+      <p>Full Stack Engineer | Cloud Engineer | Data-Driven Dreamer</p>
+      <div class="links">
+        <a href="https://github.com/thomas-basham" target="_blank">GitHub</a>
+        <a href="https://linkedin.com/in/thomas-basham" target="_blank"
+          >LinkedIn</a
+        >
+        <a href="mailto:bashamtg@gmail.com">Email Me</a>
+        <a
+          href="https://docs.google.com/document/d/1PnKGuPzRPiMQJAhLYIPHlvT13haJNWJmuDBsQZAmskg/edit?usp=sharing"
+          target="_blank"
+          >Resume</a
+        >
       </div>
     </div>
-    <script src="app.js"></script>
+    <div class="footer">Made with ❤️ and lots of coffee in Renton, WA</div>
   </body>
 </html>
