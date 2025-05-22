@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 ```ts
 const thomas = {
@@ -22,7 +22,7 @@ const thomas = {
 
 ---
 
-### 🔧 Current Stack
+### Current Stack
 
 | **Category**       | **Tech**                                                                    |
 | ------------------ | --------------------------------------------------------------------------- |
@@ -32,7 +32,7 @@ const thomas = {
 
 ---
 
-### 🚀 Featured Projects
+### Projects
 
 - 🐟 **[Troutlytics](https://github.com/thomas-basham/washington-trout-stats)**  
   Data-driven fishing app with real-time trout stocking insights and analytics.
@@ -42,7 +42,7 @@ const thomas = {
 
 ---
 
-### 📈 Stats & Activity
+### Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thomas-basham&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
@@ -54,7 +54,7 @@ const thomas = {
 
 ---
 
-### 🧭 What I'm Up To
+### What I'm Up To
 
 - 🎓 Studying for the AWS Solutions Architect Associate
 - 🔬 Building a cloud-native data pipeline with Fargate + Aurora
@@ -62,7 +62,7 @@ const thomas = {
 
 ---
 
-### 🌐 Let's Connect
+### Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thomas-basham" target="_blank">
@@ -78,14 +78,14 @@ const thomas = {
 
 ---
 
-### 💬 Motto I Code By
+### Motto I Code By
 
 > “Build it like someone else has to maintain it.  
 > Scale it like a thousand people will use it tomorrow.”
 
 ---
 
-### 🐾 Personal Interests
+### Personal Interests
 
 🎣 Fishing Puget Sound  
 🧠 Teaching Devs  
