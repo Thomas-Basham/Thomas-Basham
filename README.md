@@ -34,10 +34,10 @@ const thomas = {
 
 ### Projects
 
-- 🐟 **[Troutlytics](https://github.com/thomas-basham/washington-trout-stats)**  
+- **[Troutlytics](https://github.com/thomas-basham/washington-trout-stats)**  
   Data-driven fishing app with real-time trout stocking insights and analytics.
 
-- 🎼 **[Collab Done](https://github.com/thomas-basham/collab-done)**  
+- **[Collab Done](https://github.com/thomas-basham/collab-done)**  
   Full-stack remote musician collab tool with chat, task boards, and file sharing.
 
 ---
@@ -56,9 +56,10 @@ const thomas = {
 
 ### What I'm Up To
 
-- 🎓 Studying for the AWS Solutions Architect Associate
-- 🔬 Building a cloud-native data pipeline with Fargate + Aurora
-- ⚒️ Mentoring devs and building clean, testable code
+- Studying for the AWS Solutions Architect Associate
+- Building a cloud-native data pipeline with Fargate + Aurora
+- Mentoring devs and building clean, testable code
+- Saving up for my dream boat
 
 ---
 
@@ -87,10 +88,11 @@ const thomas = {
 
 ### Personal Interests
 
-🎣 Fishing Puget Sound  
-🧠 Teaching Devs  
-🎶 Producing Music  
-🧪 Automating All the Things
+Fishing Puget Sound
+Kayaking  
+Teaching Devs  
+Making Music  
+Automating All the Things
 
 ---
 
