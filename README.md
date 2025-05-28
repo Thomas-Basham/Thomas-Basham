@@ -88,13 +88,11 @@ const thomas = {
 
 ### Personal Interests
 
-Fishing Puget Sound
-
-Kayaking
-
+Fishing Puget Sound  
+Kayaking  
 Teaching Devs  
 Making Music  
-Automating All the Things
+Automating All the Things  
 
 ---
 
