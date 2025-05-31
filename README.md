@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Thomas Basham</h1>
 
 <p align="center">
-<img width="160"  src="aws-certified-cloud-practitioner.png" alt="AWS CCP badge"/> 
+<img width="80"  src="aws-certified-cloud-practitioner.png" alt="AWS CCP badge"/> 
 </p>
 
 <p align="center">
