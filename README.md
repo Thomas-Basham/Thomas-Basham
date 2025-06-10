@@ -41,9 +41,8 @@ const thomas = {
 - **[Troutlytics](https://github.com/thomas-basham/washington-trout-stats)**  
   Data-driven fishing app with real-time trout stocking insights and analytics.
 
-- **[Collab Done](https://github.com/thomas-basham/collab-done)**  
-  Full-stack remote musician collab tool with chat, task boards, and file sharing.
-
+- **[PS Creel Companion](https://github.com/thomas-basham/ps-creel)**  
+  Web app that aggregates and visualizes boat-ramp creel (angler survey) data across Puget Sound.
 ---
 
 ### Stats & Activity
